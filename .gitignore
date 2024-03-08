@@ -1,0 +1,5 @@
+*.tar
+*.tar.gz
+build/
+slack_token
+
