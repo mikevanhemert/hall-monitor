@@ -1,6 +1,6 @@
 import os
 
-from slackbot import SlackBot
+from legacy.slackbot import SlackBot
 
 if __name__ == '__main__':
     token = os.environ.get("SLACK_BOT_TOKEN")

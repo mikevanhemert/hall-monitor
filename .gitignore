@@ -4,3 +4,4 @@ build/
 slack_token
 venv/
 .idea/
+.venv/
