@@ -27,3 +27,21 @@
 ## Tech Stack
 
 * [Bolt Python](https://github.com/slackapi/bolt-python/tree/main/examples)
+
+## Component Design
+
+### Common Classes
+
+#### User
+
+#### Channel
+
+### Persistence
+
+### Crawler
+
+### Message Sender
+
+### Channel Modifier
+
+### User Modifier
